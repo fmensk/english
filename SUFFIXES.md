@@ -1,4 +1,3 @@
-# SUFFIXES
 A suffix is a letter or group of letters added at the end of a word that makes a new word.
 
 ### SPELLING 
